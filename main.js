@@ -3,6 +3,7 @@ const url = require("url");
 const fs = require("fs/promises");
 
 // 1)
+
 // const myServer = http.createServer((req, res) => {
 //   const parsedUrl = url.parse(req.url);
 //   if (parsedUrl.pathname === "/html") {
